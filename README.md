@@ -45,6 +45,17 @@ queries/
 - schema.sql
 - analysis_queries.sql
 
+## Skills Demonstrated
+
+- SQL Query Writing
+- Data Analysis
+- Data Validation
+- Aggregation Functions
+- Window Functions
+- Business Reporting
+- Database Design
+- Relational Databases
+
 ## Tools Used
 
 - SQL
