@@ -1,0 +1,11 @@
+order_id,order_date,customer_name,product,category,quantity,sales_amount,city
+1001,2025-01-05,Rahul Sharma,Laptop,Electronics,1,55000,Bhopal
+1002,2025-01-07,Priya Verma,Mobile,Electronics,2,40000,Indore
+1003,2025-01-10,Amit Singh,Chair,Furniture,4,12000,Delhi
+1004,2025-02-03,Neha Gupta,Table,Furniture,2,15000,Mumbai
+1005,2025-02-15,Rohit Patel,Headphones,Electronics,3,9000,Pune
+1006,2025-03-01,Anjali Jain,Laptop,Electronics,1,60000,Bhopal
+1007,2025-03-12,Vikas Yadav,Desk,Furniture,1,10000,Indore
+1008,2025-04-08,Meera Kapoor,Mobile,Electronics,1,22000,Delhi
+1009,2025-04-20,Sanjay Kumar,Sofa,Furniture,1,35000,Mumbai
+1010,2025-05-02,Kiran Mishra,Tablet,Electronics,2,30000,Pune
